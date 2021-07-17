@@ -119,6 +119,20 @@ novels of the 19th century. In the English-speaking world, the novel
 </html>
 
 
+11)Print your name to the screen with every letter being a different heading size.
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="font-size:400%;">Hajira</h1>
+<h2 style="font-size:350%;">Hajira</h2>
+<h3 style="font-size:300%;">Hajira</h3>
+<h4 style="font-size:250%;">Hajira</h4>
+<h5 style="font-size:200%;">Hajira</h5>
+<h6 style="font-size:190%;">
+</body>
+</html>
+
+
 
 
 
