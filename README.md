@@ -1,4 +1,4 @@
-1)Type your name:
+1)Create a webpage that prints your name to the screen.
 <!DOCTYPE html>
 <html>
 <body>
@@ -8,7 +8,8 @@
 
 
 
-2)Display 1-10:
+2)Create a webpage that prints the numbers 1 - 10 to the screen.
+
 <!DOCTYPE html>
 <html>
 <body>
