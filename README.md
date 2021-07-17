@@ -151,7 +151,7 @@ it the number 2 superscripted, an equal sign and the result. (Example: 102 = 100
 13)Prints 10 names with a line break between each name. The list should be alphabetized,
 and to do this place a subscripted number next to each name based on where it will go in the alphabetized list. (Example: Alan1).
  Print first, the unalphabetized list with a subscript number next to each name, then the alphabetized list.
- Both lists should have an <h1> level heading.
+ Both lists should have an h1 level heading.
 <!DOCTYPE html>
 <html>
 <body>
@@ -214,6 +214,23 @@ list should be an unordered list.
 </ul>
 </body>
 </html>
+
+
+
+16)Prints an h1 level heading followed by a horizontal line whose width is 100%. Below the
+horizontal line print a paragraph relating to the text in the heading.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Miserables</h1>
+<hr>
+<p>Misérables is a French historical novel by Victor Hugo, 
+first published in 1862, that is considered one of the greatest
+novels of the 19th century. In the English-speaking world, 
+the novel is usually referred to by its original French title.</p>
+</body> 
+</html>
+
 
 
 
