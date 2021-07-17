@@ -310,14 +310,14 @@ top left corner, receivers address in the center).
 <DOCTYPE html>
 <html>
 <body>
-<p style="text-align:top of corner;">Sender address:</p>
-<address>
+<p>Sender address:</p>
+<address style="text-align:corner;"
 Send by:Zinat Mohammadi<br>
 Physical address:Kabul<br>
 Email:zinatmohammadi@email.com<br>
 </address>
-<p style="text-align:center;">receiver address:</p>
-<address>
+<p>receiver address:</p>
+<address style="text-align:center;"
 Send to:Asra Karimi<br>
 Physical address:Herat<br>
 Email:asrakarimi@email.com<br>
