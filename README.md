@@ -64,7 +64,33 @@
 
 
 
-7)
+7) Print the numbers 1 - 10, each number being a different color.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8)Prints your name in a Tahoma font.
+<!DOCTYPE html>
+<html>
+<body>
+<p style="font-family:Tahmora;">Hajira Ahadi</p>
+</body>
+</html>
+
 
 
 
