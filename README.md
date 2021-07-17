@@ -87,7 +87,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p style="font-family:Tahmora;">Hajira Ahadi</p>
+<p style="font-family:Tahoma;">Hajira Ahadi</p>
 </body>
 </html>
 
