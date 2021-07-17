@@ -28,16 +28,37 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5)Create a webpage that prints any text of your choosing to the screen, do not include head section in the code.
+<!DOCTYPE html>
+<html>
+<body>
+<p>I think this book is very good.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
 
 
