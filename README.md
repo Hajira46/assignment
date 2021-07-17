@@ -233,6 +233,23 @@ the novel is usually referred to by its original French title.</p>
 
 
 
+17) Print some preformatted text of your choosing. (hint: use the <pre> tag)
+<!DOCTYPE html>
+<html>
+<body>
+<h1>A trust mother's Love</h1>
+<pre>
+A mother's love is consistent
+and patient,it will never fade.
+A mother's love is warm and compassionate,
+even in the shade.
+</pre>
+</body>
+</html>
+
+
+
+
 
 
 
