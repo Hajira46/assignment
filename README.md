@@ -9,7 +9,6 @@
 
 
 2)Create a webpage that prints the numbers 1 - 10 to the screen.
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -331,6 +330,14 @@ Email:asrakarimi@email.com<br>
 
 22)Print ten acronyms and abbreviations of your choosing, each separated by two lines.
  Specify the data that the abbreviations and acronyms represent.
+<!DOCTYPE html>
+<html>
+<body>
+<p>Institute For Electrical and Electronic Engineer__<abbr title="Institute for Electrical and Electronic Engineers ">IEEE</abbr></p>
+<hr>
+<hr>
+
+
 
 
 
