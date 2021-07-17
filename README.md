@@ -47,9 +47,21 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p>I think this book is very good.</p>
+<p>I think this is a very good book.</p>
 </body>
 </html>
+
+
+
+6)Repeat exercise #5, but this time include a head section in the code.
+<!DOCTYPE html>
+<html>
+<head>This is a message.</head>
+<body>
+<p>I think this is a very good book.</p>
+</body>
+</html>
+
 
 
 
