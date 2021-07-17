@@ -333,9 +333,36 @@ Email:asrakarimi@email.com<br>
 <!DOCTYPE html>
 <html>
 <body>
-<p>Institute For Electrical and Electronic Engineer__<abbr title="Institute for Electrical and Electronic Engineers ">IEEE</abbr></p>
+<p>Institute for Electrical and Electronic Engineer__<abbr title="Institute for Electrical and Electronic Engineers ">IEEE</abbr></p>
 <hr>
 <hr>
+<p>Hyper Text Transfer protocol__<abbr title="Hyper Text Transfer Protocol">HTTP</abbr></p>
+<hr>
+<hr>
+<p>Hyper Text Markup Language__<abbr title="Hyper Text Markup Language">HTML</abbr></p>
+<hr>
+<hr>
+<p>Local Area Network__<abbr title="Local Area Network">LAN</abbr></p>
+<hr>
+<hr>
+<p>Wide Area Network__<abbr title="Wide Area Network">WAN</abbr></p>
+<hr>
+<hr>
+<p>Interner Protocol__<abbr title="Internet Protocol">IP</abbr></p>
+<hr>
+<hr>
+<p>Media Access Control__<abbr title="Media Access Control">MAC</abbr></p>
+<hr>
+<hr>
+<p>Logical Link Control__<abbr title="Logical Link Control">LLC</abbr></p>
+<hr>
+<hr>
+<p>Cisco Certified Network Associate__<abbr title="Cisco Certified Network Associate">CCNA</abbr></p>
+<hr>
+<hr>
+<p>Immigration ,Refugees and Citizenship Canada__<abbr title="Immigration ,Refugees and Citizenship Canada">IRCC</abbr></p>
+</body>
+</html>
 
 
 
