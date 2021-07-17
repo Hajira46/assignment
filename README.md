@@ -312,15 +312,15 @@ top left corner, receivers address in the center).
 <body>
 <p style="text-align:top of corner;">Sender address:</p>
 <address>
-Send by:Zinat Mohammadi
-Physical address:Kabul
-Email:zinatmohammadi@email.com
+Send by:Zinat Mohammadi<br>
+Physical address:Kabul<br>
+Email:zinatmohammadi@email.com<br>
 </address>
 <p style="text-align:center;">receiver address:</p>
 <address>
-Send to:Asra Karimi
-Physical address:Herat
-Email:asrakarimi@email.com
+Send to:Asra Karimi<br>
+Physical address:Herat<br>
+Email:asrakarimi@email.com<br>
 </address>
 </body>
 </html>
