@@ -92,6 +92,22 @@
 </html>
 
 
+9)Print a paragraph with 4 - 5 sentences. Each sentence should be a different font.
+<!DOCTYPE html>
+<html>
+<body>
+<p style="font-family:verdana;">Ahamad is a good boy</p>
+<p style="font-family:courier;">Ahmad is a good boy</p>
+<p style="font-family:Tahoma;">Ahamad is a good boy</p>
+<p style="font-family:verdana;">Ahamad is a good boy</p>
+</body>
+</html>
+
+
+
+10) Print a paragraph that is a description of a book, include the title of the book as well as its
+author. Names and titles should be underlined, adjectives should be italicized and bolded.
+
 
 
 
