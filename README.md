@@ -64,6 +64,16 @@
 
 
 
+7)Print your name in green
+<!DOCTYPE html>
+<html>
+<body>
+<p style="color:green;">Hajira Ahadi</p>
+</body>
+</html>
+
+
+
 
 
 
