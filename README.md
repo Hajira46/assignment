@@ -270,6 +270,19 @@ but rather try to become a man of value.</q></p>
 
 
 
+19)Print some deleted and inserted text of your choosing.
+<!DOCTYPE html>
+<html>
+<body>
+<p>Try not to become a man of <ins>success</ins>
+,but rather try to <del>become</del> a <ins>man</ins>
+of <del>value</del>.</p>
+</body>
+</html>
+
+
+
+
 
 
 
