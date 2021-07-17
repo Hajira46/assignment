@@ -19,7 +19,7 @@
 
 
 
-3)display title"This is a webpage"
+3)Create a webpage and set its title to "This is a webpage".
 <!DOCTYPE html>
 <html>
 <body>
