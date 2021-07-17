@@ -250,6 +250,24 @@ even in the shade.
 
 
 18) Print a long quote and a short quote. Cite the author of each quote.
+<!DOCTYPE html>
+<html>
+<body>
+<blockquote 
+cite="Mohammad(PBHM)">
+If you show mercy to those who are on the earth, God will show mercy to you.
+</blockquote>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Eneshtain said:<q>Try not to become a man of success ,
+but rather try to become a man of value.</q></p>
+</body>
+</html>
+
 
 
 
