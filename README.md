@@ -249,6 +249,10 @@ even in the shade.
 
 
 
+18) Print a long quote and a short quote. Cite the author of each quote.
+
+
+
 
 
 
