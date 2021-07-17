@@ -151,7 +151,7 @@ it the number 2 superscripted, an equal sign and the result. (Example: 102 = 100
 13)Prints 10 names with a line break between each name. The list should be alphabetized,
 and to do this place a subscripted number next to each name based on where it will go in the alphabetized list. (Example: Alan1).
  Print first, the unalphabetized list with a subscript number next to each name, then the alphabetized list.
- Both lists should have an <h1>
+ Both lists should have an <h1> level heading.
 <!DOCTYPE html>
 <html>
 <body>
@@ -181,6 +181,37 @@ and to do this place a subscripted number next to each name based on where it wi
 <li>Husna<sub>8</sub></li>
 <li>Zuhra<sub>26</sub></li>
 </ol>
+</body>
+</html>
+
+
+14) Print two paragraphs that are both indented using the &nbsp; command.
+
+
+
+
+
+
+
+
+
+15)  Print two lists with any information you want. One list should be an ordered list, the other
+list should be an unordered list.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Color</h1>
+<ol>
+<li>red</li>
+<li>pink</li>
+<li>green</li>
+</ol>
+<ul>
+<h1>Color</h1>
+<li>red</li>
+<li>pink</li>
+<li>green</li>
+</ul>
 </body>
 </html>
 
