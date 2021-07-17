@@ -17,3 +17,27 @@
 </html>
 
 
+
+3)display title"This is a webpage"
+<!DOCTYPE html>
+<html>
+<body>
+<h1>This is a webpage.</h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+4)
+
+
