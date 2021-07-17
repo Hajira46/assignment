@@ -107,8 +107,16 @@
 
 10) Print a paragraph that is a description of a book, include the title of the book as well as its
 author. Names and titles should be underlined, adjectives should be italicized and bolded.
-
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Miserables</h1>
+<p> <ins>Les Misérables</ins> is a French <b><i>historical</i></b>novel by <ins>Victor Hugo,</ins>
+ first published in 1862, that is considered one of the <b><i>greatest</i></b>
+novels of the 19th century. In the English-speaking world, the novel
+ is usually referred to by its original French title.</p>
+</body>
+</html>
 
 
 
