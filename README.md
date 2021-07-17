@@ -295,10 +295,33 @@ of <del>value</del>.</p>
 <dt>Water</dt>
 <dd>-cold and drink</dd>
 <dt>Friend</dt>
-<dd>Honest and kind</dd>
+<dd>-Honest and kind</dd>
 <dt>Apple</dt>
-<dd>Red , green and yellow</dd>
+<dd>-Red , green and yellow</dd>
 </dl>
+</body>
+</html>
+
+
+
+
+21)Print two addresses in the same format used on the front of envelopes (senders address in
+top left corner, receivers address in the center).
+<DOCTYPE html>
+<html>
+<body>
+<p style="text-align:top of corner;">Sender address:</p>
+<address>
+Send by:Zinat Mohammadi
+Physical address:Kabul
+Email:zinatmohammadi@email.com
+</address>
+<p style="text-align:center;">receiver address:</p>
+<address>
+Send to:Asra Karimi
+Physical address:Herat
+Email:asrakarimi@email.com
+</address>
 </body>
 </html>
 
