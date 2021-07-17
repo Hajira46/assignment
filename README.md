@@ -283,6 +283,30 @@ of <del>value</del>.</p>
 
 
 
+20)Print a definition list with 5 items.
+<!DOCTYPE html>
+<html>
+<body>
+<dl>
+<dt>Book</dt>
+<dd>-best friend</dd>
+<dt>Computer</dt>
+<dd>-Electrical machine</dd>
+<dt>Water</dt>
+<dd>-cold and drink</dd>
+<dt>Friend</dt>
+<dd>Honest and kind</dd>
+<dt>Apple</dt>
+<dd>Red , green and yellow</dd>
+</dl>
+</body>
+</html>
+
+
+
+
+
+
 
 
 
