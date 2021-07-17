@@ -254,7 +254,7 @@ even in the shade.
 <html>
 <body>
 <blockquote 
-cite="Mohammad(PBHM)">
+cite="Prophet Mohammad(PBUH)">
 If you show mercy to those who are on the earth, God will show mercy to you.
 </blockquote>
 </body>
@@ -263,7 +263,7 @@ If you show mercy to those who are on the earth, God will show mercy to you.
 <!DOCTYPE html>
 <html>
 <body>
-<p>Eneshtain said:<q>Try not to become a man of success ,
+<p>Einstein said:<q>Try not to become a man of success ,
 but rather try to become a man of value.</q></p>
 </body>
 </html>
