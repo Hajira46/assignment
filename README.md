@@ -30,17 +30,13 @@
 
 4)Create a webpage that prints the message "When was this webpage created? Check page's
 title for the answer." to the screen, and set the title of the page to the current date
-
-
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1 title="7/18/2021">data</h1>
+<p>When was this webpage created? Check page's</p>
+</body>
+</html>
 
 
 
