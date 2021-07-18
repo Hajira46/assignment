@@ -53,7 +53,9 @@ title for the answer." to the screen, and set the title of the page to the curre
 6)Repeat exercise #5, but this time include a head section in the code.
 <!DOCTYPE html>
 <html>
-<head>This is a message.</head>
+<head>
+<title>This is a webpage</title>
+</head>
 <body>
 <p>I think this is a very good book.</p>
 </body>
