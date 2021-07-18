@@ -65,21 +65,21 @@
 
 
 7) Print the numbers 1 - 10, each number being a different color.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+<body>
+<p style="color:yellow;">1</p>
+<p style="color:blue;">2</p>
+<p style="color:red;">3</p>
+<p style="color:green;">4</p>
+<p style="color:black;">5</p>
+<p style="color:purple;">6</p>
+<p style="color:blue;">7</p>
+<p style="color:red;">8</p>
+<p style="color:green;">9</p>
+<p style="color:yellow;">10</p>
+</body>
+</html>
 
 
 
