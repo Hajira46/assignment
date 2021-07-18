@@ -28,7 +28,8 @@
 
 
 
-4)
+4)Create a webpage that prints the message "When was this webpage created? Check page's
+title for the answer." to the screen, and set the title of the page to the current date
 
 
 
@@ -249,7 +250,7 @@ the novel is usually referred to by its original French title.</p>
 
 
 
-17) Print some preformatted text of your choosing. (hint: use the <pre> tag)
+17) Print some preformatted text of your choosing. (hint: use the pre tag)
 <!DOCTYPE html>
 <html>
 <body>
