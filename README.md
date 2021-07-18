@@ -33,7 +33,7 @@ title for the answer." to the screen, and set the title of the page to the curre
 <!DOCTYPE html>
 <html>
 <body>
-<h1 title="7/18/2021">data</h1>
+<h1 title="7/18/2021">7/18/2021</h1>
 <p>When was this webpage created? Check page's</p>
 </body>
 </html>
